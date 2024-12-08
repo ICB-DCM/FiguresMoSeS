@@ -1,0 +1,1 @@
+#define observable_x2 k[0]
