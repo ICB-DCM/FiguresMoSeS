@@ -65,7 +65,12 @@ Temporary Items
 # AWS User-specific
 .idea/**/aws.xml
 
+# amici models
 amici_models
+
+# local files and results
+*.png
+
 
 # Generated files
 .idea/**/contentModel.xml
