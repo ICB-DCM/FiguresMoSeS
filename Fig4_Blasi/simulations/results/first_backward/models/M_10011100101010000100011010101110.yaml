@@ -1,0 +1,93 @@
+criteria:
+  AIC: 81.29958641668537
+  AICc: 83.61448003370666
+  BIC: 137.77045181686816
+  NLLH: 24.649793208342686
+estimated_parameters:
+  a_0ac_k05: -0.04399074905516005
+  a_0ac_k16: -0.29119312458901103
+  a_b: -1.1445107874380438
+  a_k05_k05k08: -1.7176511514712747
+  a_k05_k05k12: 1.4127425400603937
+  a_k05k08_k05k08k16: -2.9149472814330806
+  a_k05k08k12_4ac: 1.3868580411000597
+  a_k05k08k16_4ac: -1.6543190016528455
+  a_k05k12k16_4ac: 1.4645272122067243
+  a_k05k16_k05k12k16: 1.5085205254906493
+  a_k08_k08k12: 1.043596474822401
+  a_k08k12_k05k08k12: 1.6010285777761761
+  a_k08k16_k05k08k16: -2.6110360514630266
+  a_k12_k05k12: 0.710080902149826
+  a_k12_k12k16: 0.317991302854305
+  a_k12k16_k05k12k16: -1.9570933165263464
+model_hash: 824a80256cb0d239cafdb5aa0bc1146b5d839e3af40e5ccbd0f14c7bdfc320804fa19b9e8becb99ae753ca04d6581b7902dfe4e30f5995716f7c20430a1e40bb
+model_id: M_10011100101010000100011010101110
+model_subspace_id: M
+model_subspace_indices:
+- 1
+- 0
+- 0
+- 1
+- 1
+- 1
+- 0
+- 0
+- 1
+- 0
+- 1
+- 0
+- 1
+- 0
+- 0
+- 0
+- 0
+- 1
+- 0
+- 0
+- 0
+- 1
+- 1
+- 0
+- 1
+- 0
+- 1
+- 0
+- 1
+- 1
+- 1
+- 0
+parameters:
+  a_0ac_k05: estimate
+  a_0ac_k08: 1
+  a_0ac_k12: 1
+  a_0ac_k16: estimate
+  a_k05_k05k08: estimate
+  a_k05_k05k12: estimate
+  a_k05_k05k16: 1
+  a_k05k08_k05k08k12: 1
+  a_k05k08_k05k08k16: estimate
+  a_k05k08k12_4ac: estimate
+  a_k05k08k16_4ac: estimate
+  a_k05k12_k05k08k12: 1
+  a_k05k12_k05k12k16: 1
+  a_k05k12k16_4ac: estimate
+  a_k05k16_k05k08k16: 1
+  a_k05k16_k05k12k16: estimate
+  a_k08_k05k08: 1
+  a_k08_k08k12: estimate
+  a_k08_k08k16: 1
+  a_k08k12_k05k08k12: estimate
+  a_k08k12_k08k12k16: 1
+  a_k08k12k16_4ac: 1
+  a_k08k16_k05k08k16: estimate
+  a_k08k16_k08k12k16: 1
+  a_k12_k05k12: estimate
+  a_k12_k08k12: 1
+  a_k12_k12k16: estimate
+  a_k12k16_k05k12k16: estimate
+  a_k12k16_k08k12k16: 1
+  a_k16_k05k16: 1
+  a_k16_k08k16: 1
+  a_k16_k12k16: 1
+petab_yaml: ../../example/optimal_problem/output/petab/petab_problem.yaml
+predecessor_model_hash: 8943e1bed49016e296baf7106f66b81e4e46b3b5b5a68947fae5721c6f11c4d99a26b63bc1fb86dd5c563009b14dcda84eaa072d25cd344297976ea01523c269

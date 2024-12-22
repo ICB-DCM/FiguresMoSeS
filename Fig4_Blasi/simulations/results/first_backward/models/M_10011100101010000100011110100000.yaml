@@ -1,0 +1,91 @@
+criteria:
+  AIC: 201.00234134137418
+  AICc: 202.77449324010834
+  BIC: 250.4143485665341
+  NLLH: 86.50117067068709
+estimated_parameters:
+  a_0ac_k05: -1.0206016064687666
+  a_0ac_k16: -0.5495395089725178
+  a_b: -0.9341599134492211
+  a_k05_k05k08: -2.9990585896305455
+  a_k05_k05k12: 0.8258594397980463
+  a_k05k08_k05k08k16: 0.39498143789739487
+  a_k05k16_k05k12k16: 0.7512429943167721
+  a_k08_k08k12: 0.8470610832619939
+  a_k08k12_k05k08k12: 1.5879847187339955
+  a_k08k12_k08k12k16: 1.0073064842393853
+  a_k08k16_k05k08k16: -0.18730643178322753
+  a_k12_k05k12: 0.8296069417939878
+  a_k12_k12k16: -0.14354494731943573
+  a_k12k16_k05k12k16: -1.222579683096361
+model_hash: 74a2683cf4f404f04c87faf9a46ba9a42c24e9d7d4feafe3cbebcc31e71c2a3da4b0d3333b8aa9cf355d22ba72a53d8e5535a5c87ea20eab67a3721bbb0626fa
+model_id: M_10011100101010000100011110100000
+model_subspace_id: M
+model_subspace_indices:
+- 1
+- 0
+- 0
+- 1
+- 1
+- 1
+- 0
+- 0
+- 1
+- 0
+- 1
+- 0
+- 1
+- 0
+- 0
+- 0
+- 0
+- 1
+- 0
+- 0
+- 0
+- 1
+- 1
+- 1
+- 1
+- 0
+- 1
+- 0
+- 0
+- 0
+- 0
+- 0
+parameters:
+  a_0ac_k05: estimate
+  a_0ac_k08: 1
+  a_0ac_k12: 1
+  a_0ac_k16: estimate
+  a_k05_k05k08: estimate
+  a_k05_k05k12: estimate
+  a_k05_k05k16: 1
+  a_k05k08_k05k08k12: 1
+  a_k05k08_k05k08k16: estimate
+  a_k05k08k12_4ac: 1
+  a_k05k08k16_4ac: 1
+  a_k05k12_k05k08k12: 1
+  a_k05k12_k05k12k16: 1
+  a_k05k12k16_4ac: 1
+  a_k05k16_k05k08k16: 1
+  a_k05k16_k05k12k16: estimate
+  a_k08_k05k08: 1
+  a_k08_k08k12: estimate
+  a_k08_k08k16: 1
+  a_k08k12_k05k08k12: estimate
+  a_k08k12_k08k12k16: estimate
+  a_k08k12k16_4ac: 1
+  a_k08k16_k05k08k16: estimate
+  a_k08k16_k08k12k16: 1
+  a_k12_k05k12: estimate
+  a_k12_k08k12: 1
+  a_k12_k12k16: estimate
+  a_k12k16_k05k12k16: estimate
+  a_k12k16_k08k12k16: 1
+  a_k16_k05k16: 1
+  a_k16_k08k16: 1
+  a_k16_k12k16: 1
+petab_yaml: ../../example/optimal_problem/output/petab/petab_problem.yaml
+predecessor_model_hash: 1a83d3ee1fd217d6ba27fbffcf4a27589a21103c1747b37ad21b70c041730b89dfb930859b91f249f30baf0051368300c7ef373c36609fc3c9c3b84e1ff94f22

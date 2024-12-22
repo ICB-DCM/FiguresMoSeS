@@ -1,0 +1,5 @@
+version: beta_1
+criterion: AIC
+method: forward
+model_space_files:
+- reduced_model_space_FAMoS_2019.tsv

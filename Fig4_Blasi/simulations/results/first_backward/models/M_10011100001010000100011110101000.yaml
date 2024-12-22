@@ -1,0 +1,91 @@
+criteria:
+  AIC: 107.9492567978036
+  AICc: 109.72140869653778
+  BIC: 157.36126402296352
+  NLLH: 39.9746283989018
+estimated_parameters:
+  a_0ac_k05: 0.058666893830457936
+  a_0ac_k16: -0.5245031588126111
+  a_b: -0.9527665044552431
+  a_k05_k05k08: -3.0
+  a_k05_k05k12: 1.4530684181070035
+  a_k05k08_k05k08k16: -3.0
+  a_k05k08k12_4ac: 1.2488894292779937
+  a_k05k16_k05k12k16: -2.9999997141161616
+  a_k08k12_k05k08k12: 1.4108844166040255
+  a_k08k12_k08k12k16: 0.8973421750091838
+  a_k08k16_k05k08k16: 0.17457442556695288
+  a_k12_k05k12: -0.34099396583873626
+  a_k12_k12k16: -0.18126585675118906
+  a_k12k16_k05k12k16: -3.0
+model_hash: 2a46d58e7cea7f36053584c205ae08f59ea130ef9e53b012154f14434333165b5c7f8631255658dbba5faca127376f32a918aa14fac5b3099c9cecba7da90dd1
+model_id: M_10011100001010000100011110101000
+model_subspace_id: M
+model_subspace_indices:
+- 1
+- 0
+- 0
+- 1
+- 1
+- 1
+- 0
+- 0
+- 0
+- 0
+- 1
+- 0
+- 1
+- 0
+- 0
+- 0
+- 0
+- 1
+- 0
+- 0
+- 0
+- 1
+- 1
+- 1
+- 1
+- 0
+- 1
+- 0
+- 1
+- 0
+- 0
+- 0
+parameters:
+  a_0ac_k05: estimate
+  a_0ac_k08: 1
+  a_0ac_k12: 1
+  a_0ac_k16: estimate
+  a_k05_k05k08: estimate
+  a_k05_k05k12: estimate
+  a_k05_k05k16: 1
+  a_k05k08_k05k08k12: 1
+  a_k05k08_k05k08k16: estimate
+  a_k05k08k12_4ac: estimate
+  a_k05k08k16_4ac: 1
+  a_k05k12_k05k08k12: 1
+  a_k05k12_k05k12k16: 1
+  a_k05k12k16_4ac: 1
+  a_k05k16_k05k08k16: 1
+  a_k05k16_k05k12k16: estimate
+  a_k08_k05k08: 1
+  a_k08_k08k12: 1
+  a_k08_k08k16: 1
+  a_k08k12_k05k08k12: estimate
+  a_k08k12_k08k12k16: estimate
+  a_k08k12k16_4ac: 1
+  a_k08k16_k05k08k16: estimate
+  a_k08k16_k08k12k16: 1
+  a_k12_k05k12: estimate
+  a_k12_k08k12: 1
+  a_k12_k12k16: estimate
+  a_k12k16_k05k12k16: estimate
+  a_k12k16_k08k12k16: 1
+  a_k16_k05k16: 1
+  a_k16_k08k16: 1
+  a_k16_k12k16: 1
+petab_yaml: ../../example/optimal_problem/output/petab/petab_problem.yaml
+predecessor_model_hash: 1a83d3ee1fd217d6ba27fbffcf4a27589a21103c1747b37ad21b70c041730b89dfb930859b91f249f30baf0051368300c7ef373c36609fc3c9c3b84e1ff94f22

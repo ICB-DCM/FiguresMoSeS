@@ -1,0 +1,90 @@
+criteria:
+  AIC: 57.529714853345794
+  AICc: 59.05912661805168
+  BIC: 103.4122929909943
+  NLLH: 15.764857426672899
+estimated_parameters:
+  a_0ac_k16: -0.3066909597665247
+  a_b: -1.1711275170426834
+  a_k05_k05k08: 0.0457412077646864
+  a_k05_k05k12: 1.4605457420667887
+  a_k05k08_k05k08k16: -2.999743040435785
+  a_k05k08k12_4ac: 1.460775568658233
+  a_k08_k08k12: 1.171330017374958
+  a_k08k12_k05k08k12: 1.6759189370779723
+  a_k08k12_k08k12k16: 1.085021823239123
+  a_k08k16_k05k08k16: 0.20921024923578235
+  a_k12_k05k12: 0.7044655823925223
+  a_k12_k12k16: 0.2744708477030856
+  a_k12k16_k05k12k16: 0.16535191523711396
+model_hash: 0974bae206fc2f24625393ab9200efb916e2a4ae69be75d94c024cab001af020fb1c54d1fd28764678fe699eca43faf92983ed19c3a5f1ecabb3a31b50901f45
+model_id: M_00011100101010000100001110101000
+model_subspace_id: M
+model_subspace_indices:
+- 0
+- 0
+- 0
+- 1
+- 1
+- 1
+- 0
+- 0
+- 1
+- 0
+- 1
+- 0
+- 1
+- 0
+- 0
+- 0
+- 0
+- 1
+- 0
+- 0
+- 0
+- 0
+- 1
+- 1
+- 1
+- 0
+- 1
+- 0
+- 1
+- 0
+- 0
+- 0
+parameters:
+  a_0ac_k05: 1
+  a_0ac_k08: 1
+  a_0ac_k12: 1
+  a_0ac_k16: estimate
+  a_k05_k05k08: estimate
+  a_k05_k05k12: estimate
+  a_k05_k05k16: 1
+  a_k05k08_k05k08k12: 1
+  a_k05k08_k05k08k16: estimate
+  a_k05k08k12_4ac: estimate
+  a_k05k08k16_4ac: 1
+  a_k05k12_k05k08k12: 1
+  a_k05k12_k05k12k16: 1
+  a_k05k12k16_4ac: 1
+  a_k05k16_k05k08k16: 1
+  a_k05k16_k05k12k16: 1
+  a_k08_k05k08: 1
+  a_k08_k08k12: estimate
+  a_k08_k08k16: 1
+  a_k08k12_k05k08k12: estimate
+  a_k08k12_k08k12k16: estimate
+  a_k08k12k16_4ac: 1
+  a_k08k16_k05k08k16: estimate
+  a_k08k16_k08k12k16: 1
+  a_k12_k05k12: estimate
+  a_k12_k08k12: 1
+  a_k12_k12k16: estimate
+  a_k12k16_k05k12k16: estimate
+  a_k12k16_k08k12k16: 1
+  a_k16_k05k16: 1
+  a_k16_k08k16: 1
+  a_k16_k12k16: 1
+petab_yaml: ../../example/optimal_problem/output/petab/petab_problem.yaml
+predecessor_model_hash: ca7702e6340157dba3891a75557f0c1f8602c0ed49282ef5eacfa697e0d0586be1d94527915f9e9e15e1a92f8e36986eb8c704c252368156166af59fcc22244a

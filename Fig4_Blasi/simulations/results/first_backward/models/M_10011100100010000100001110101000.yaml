@@ -1,0 +1,90 @@
+criteria:
+  AIC: 58.57516337616457
+  AICc: 60.10457514087045
+  BIC: 104.45774151381308
+  NLLH: 16.287581688082284
+estimated_parameters:
+  a_0ac_k05: 0.13764248694375852
+  a_0ac_k16: -0.29398605593411575
+  a_b: -1.1880853338487034
+  a_k05_k05k08: 0.167665008494235
+  a_k05_k05k12: 1.539566241594817
+  a_k05k08_k05k08k16: -0.009651078977400553
+  a_k05k08k12_4ac: 1.4796796440499116
+  a_k08_k08k12: 1.1925654321418004
+  a_k08k12_k05k08k12: 1.7061678884604377
+  a_k08k12_k08k12k16: 1.1095747578534847
+  a_k08k16_k05k08k16: -0.3577608577715815
+  a_k12_k12k16: 0.2639408076850701
+  a_k12k16_k05k12k16: 0.38676116251045806
+model_hash: 04bda9404b40d3f196386e40b87892d203c2ecff74bcca08b6337197d1dd562d053691e098529ebe06c52dc0e4b13237052a23e9b2438e826e8084d8c22b0366
+model_id: M_10011100100010000100001110101000
+model_subspace_id: M
+model_subspace_indices:
+- 1
+- 0
+- 0
+- 1
+- 1
+- 1
+- 0
+- 0
+- 1
+- 0
+- 0
+- 0
+- 1
+- 0
+- 0
+- 0
+- 0
+- 1
+- 0
+- 0
+- 0
+- 0
+- 1
+- 1
+- 1
+- 0
+- 1
+- 0
+- 1
+- 0
+- 0
+- 0
+parameters:
+  a_0ac_k05: estimate
+  a_0ac_k08: 1
+  a_0ac_k12: 1
+  a_0ac_k16: estimate
+  a_k05_k05k08: estimate
+  a_k05_k05k12: estimate
+  a_k05_k05k16: 1
+  a_k05k08_k05k08k12: 1
+  a_k05k08_k05k08k16: estimate
+  a_k05k08k12_4ac: estimate
+  a_k05k08k16_4ac: 1
+  a_k05k12_k05k08k12: 1
+  a_k05k12_k05k12k16: 1
+  a_k05k12k16_4ac: 1
+  a_k05k16_k05k08k16: 1
+  a_k05k16_k05k12k16: 1
+  a_k08_k05k08: 1
+  a_k08_k08k12: estimate
+  a_k08_k08k16: 1
+  a_k08k12_k05k08k12: estimate
+  a_k08k12_k08k12k16: estimate
+  a_k08k12k16_4ac: 1
+  a_k08k16_k05k08k16: estimate
+  a_k08k16_k08k12k16: 1
+  a_k12_k05k12: 1
+  a_k12_k08k12: 1
+  a_k12_k12k16: estimate
+  a_k12k16_k05k12k16: estimate
+  a_k12k16_k08k12k16: 1
+  a_k16_k05k16: 1
+  a_k16_k08k16: 1
+  a_k16_k12k16: 1
+petab_yaml: ../../example/optimal_problem/output/petab/petab_problem.yaml
+predecessor_model_hash: ca7702e6340157dba3891a75557f0c1f8602c0ed49282ef5eacfa697e0d0586be1d94527915f9e9e15e1a92f8e36986eb8c704c252368156166af59fcc22244a

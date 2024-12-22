@@ -1,0 +1,91 @@
+criteria:
+  AIC: 66.15748037207766
+  AICc: 67.92963227081184
+  BIC: 115.56948759723758
+  NLLH: 19.07874018603883
+estimated_parameters:
+  a_0ac_k05: 0.1254494462279342
+  a_b: -1.2251273591381069
+  a_k05_k05k08: 0.281277046219908
+  a_k05_k05k12: 1.5608739332687802
+  a_k05k08_k05k08k16: -1.0956815872826267
+  a_k05k08k12_4ac: 1.5253799859690873
+  a_k05k16_k05k12k16: 0.8990317572531363
+  a_k08_k08k12: 1.2773601466226627
+  a_k08k12_k05k08k12: 1.734392804925769
+  a_k08k12_k08k12k16: 1.1556385229382227
+  a_k08k16_k05k08k16: 0.378494719748772
+  a_k12_k05k12: 0.6171677437805932
+  a_k12_k12k16: 0.19598350176940135
+  a_k12k16_k05k12k16: -2.9999999999968137
+model_hash: 5d1d920aa394880da03131cf882112ab34a0b418045e1a8c66aa4d36cf2a56c550ce078ce848c9f42fd17be1ac17979de3a699a1169a98a5b989073347c90a5b
+model_id: M_10001100101010000100011110101000
+model_subspace_id: M
+model_subspace_indices:
+- 1
+- 0
+- 0
+- 0
+- 1
+- 1
+- 0
+- 0
+- 1
+- 0
+- 1
+- 0
+- 1
+- 0
+- 0
+- 0
+- 0
+- 1
+- 0
+- 0
+- 0
+- 1
+- 1
+- 1
+- 1
+- 0
+- 1
+- 0
+- 1
+- 0
+- 0
+- 0
+parameters:
+  a_0ac_k05: estimate
+  a_0ac_k08: 1
+  a_0ac_k12: 1
+  a_0ac_k16: 1
+  a_k05_k05k08: estimate
+  a_k05_k05k12: estimate
+  a_k05_k05k16: 1
+  a_k05k08_k05k08k12: 1
+  a_k05k08_k05k08k16: estimate
+  a_k05k08k12_4ac: estimate
+  a_k05k08k16_4ac: 1
+  a_k05k12_k05k08k12: 1
+  a_k05k12_k05k12k16: 1
+  a_k05k12k16_4ac: 1
+  a_k05k16_k05k08k16: 1
+  a_k05k16_k05k12k16: estimate
+  a_k08_k05k08: 1
+  a_k08_k08k12: estimate
+  a_k08_k08k16: 1
+  a_k08k12_k05k08k12: estimate
+  a_k08k12_k08k12k16: estimate
+  a_k08k12k16_4ac: 1
+  a_k08k16_k05k08k16: estimate
+  a_k08k16_k08k12k16: 1
+  a_k12_k05k12: estimate
+  a_k12_k08k12: 1
+  a_k12_k12k16: estimate
+  a_k12k16_k05k12k16: estimate
+  a_k12k16_k08k12k16: 1
+  a_k16_k05k16: 1
+  a_k16_k08k16: 1
+  a_k16_k12k16: 1
+petab_yaml: ../../example/optimal_problem/output/petab/petab_problem.yaml
+predecessor_model_hash: 1a83d3ee1fd217d6ba27fbffcf4a27589a21103c1747b37ad21b70c041730b89dfb930859b91f249f30baf0051368300c7ef373c36609fc3c9c3b84e1ff94f22

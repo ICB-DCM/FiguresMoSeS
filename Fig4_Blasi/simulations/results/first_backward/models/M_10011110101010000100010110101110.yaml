@@ -1,0 +1,94 @@
+criteria:
+  AIC: 92.51991762288293
+  AICc: 95.13530223826754
+  BIC: 152.52021211057712
+  NLLH: 29.259958811441468
+estimated_parameters:
+  a_0ac_k05: 0.24376310489129024
+  a_0ac_k16: -0.755750988380055
+  a_b: -1.1420046919926643
+  a_k05_k05k08: 0.18074904029967986
+  a_k05_k05k12: 1.6445492045145391
+  a_k05_k05k16: 1.1894415622746737
+  a_k05k08_k05k08k16: -1.1786658052349823
+  a_k05k08k12_4ac: -2.386863011628428
+  a_k05k08k16_4ac: 1.6424599648824216
+  a_k05k12k16_4ac: 1.8001176257472289
+  a_k05k16_k05k12k16: -1.4610920894367727
+  a_k08_k08k12: 0.5646375864002638
+  a_k08k12_k08k12k16: 0.9756864058460732
+  a_k08k16_k05k08k16: 0.9519713702517499
+  a_k12_k05k12: 0.9669990314194494
+  a_k12_k12k16: 0.5100518964473566
+  a_k12k16_k05k12k16: 1.1876066908242262
+model_hash: fbf6b14d9ee6a8a5f73924446b94569df6c675f9fd75ae47ba0cf7771efd3689f51477c09942df53af274996d5d63070655b760721bef7e7dc9eae6ca4d27e40
+model_id: M_10011110101010000100010110101110
+model_subspace_id: M
+model_subspace_indices:
+- 1
+- 0
+- 0
+- 1
+- 1
+- 1
+- 1
+- 0
+- 1
+- 0
+- 1
+- 0
+- 1
+- 0
+- 0
+- 0
+- 0
+- 1
+- 0
+- 0
+- 0
+- 1
+- 0
+- 1
+- 1
+- 0
+- 1
+- 0
+- 1
+- 1
+- 1
+- 0
+parameters:
+  a_0ac_k05: estimate
+  a_0ac_k08: 1
+  a_0ac_k12: 1
+  a_0ac_k16: estimate
+  a_k05_k05k08: estimate
+  a_k05_k05k12: estimate
+  a_k05_k05k16: estimate
+  a_k05k08_k05k08k12: 1
+  a_k05k08_k05k08k16: estimate
+  a_k05k08k12_4ac: estimate
+  a_k05k08k16_4ac: estimate
+  a_k05k12_k05k08k12: 1
+  a_k05k12_k05k12k16: 1
+  a_k05k12k16_4ac: estimate
+  a_k05k16_k05k08k16: 1
+  a_k05k16_k05k12k16: estimate
+  a_k08_k05k08: 1
+  a_k08_k08k12: estimate
+  a_k08_k08k16: 1
+  a_k08k12_k05k08k12: 1
+  a_k08k12_k08k12k16: estimate
+  a_k08k12k16_4ac: 1
+  a_k08k16_k05k08k16: estimate
+  a_k08k16_k08k12k16: 1
+  a_k12_k05k12: estimate
+  a_k12_k08k12: 1
+  a_k12_k12k16: estimate
+  a_k12k16_k05k12k16: estimate
+  a_k12k16_k08k12k16: 1
+  a_k16_k05k16: 1
+  a_k16_k08k16: 1
+  a_k16_k12k16: 1
+petab_yaml: ../../example/optimal_problem/output/petab/petab_problem.yaml
+predecessor_model_hash: 9b293b7f2b055753efd2f0369cadeeb14e8e6d15f0c73883f52c90f543dc186547280a524c8398271dad3eafdfc84eae245c2539f7c7d4f44e410e6d8f4a121a

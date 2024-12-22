@@ -1,0 +1,93 @@
+criteria:
+  AIC: 63.529352363843
+  AICc: 65.84424598086429
+  BIC: 120.00021776402578
+  NLLH: 15.7646761819215
+estimated_parameters:
+  a_0ac_k05: 0.04528223961404313
+  a_0ac_k16: -0.26987047694126065
+  a_b: -1.1897885264694745
+  a_k05_k05k08: 0.10673611020171839
+  a_k05_k05k12: 1.489167126325414
+  a_k05k08_k05k08k16: -0.3332435033194308
+  a_k05k08k12_4ac: 1.3980453182441148
+  a_k05k08k16_4ac: -2.100591204229609
+  a_k05k12k16_4ac: 1.1805554857319775
+  a_k05k16_k05k12k16: 1.245233664036572
+  a_k08_k08k12: 1.165405936093291
+  a_k08k12_k05k08k12: 1.6582392282099039
+  a_k08k12_k08k12k16: 1.105812112478135
+  a_k08k16_k05k08k16: 0.030075042425451195
+  a_k12_k05k12: 0.6881219714377765
+  a_k12_k12k16: 0.2824244935279834
+model_hash: 7eaf5ddb6c6c6a1f0862ecbdf2bb7029734606f5b9d21cc4116fdfa9f3cca48d20239bfd5c62cfe55d0f5cc649cfec94f6d73b53197a55b0f8f929959e46f094
+model_id: M_10011100101010000100011110001110
+model_subspace_id: M
+model_subspace_indices:
+- 1
+- 0
+- 0
+- 1
+- 1
+- 1
+- 0
+- 0
+- 1
+- 0
+- 1
+- 0
+- 1
+- 0
+- 0
+- 0
+- 0
+- 1
+- 0
+- 0
+- 0
+- 1
+- 1
+- 1
+- 1
+- 0
+- 0
+- 0
+- 1
+- 1
+- 1
+- 0
+parameters:
+  a_0ac_k05: estimate
+  a_0ac_k08: 1
+  a_0ac_k12: 1
+  a_0ac_k16: estimate
+  a_k05_k05k08: estimate
+  a_k05_k05k12: estimate
+  a_k05_k05k16: 1
+  a_k05k08_k05k08k12: 1
+  a_k05k08_k05k08k16: estimate
+  a_k05k08k12_4ac: estimate
+  a_k05k08k16_4ac: estimate
+  a_k05k12_k05k08k12: 1
+  a_k05k12_k05k12k16: 1
+  a_k05k12k16_4ac: estimate
+  a_k05k16_k05k08k16: 1
+  a_k05k16_k05k12k16: estimate
+  a_k08_k05k08: 1
+  a_k08_k08k12: estimate
+  a_k08_k08k16: 1
+  a_k08k12_k05k08k12: estimate
+  a_k08k12_k08k12k16: estimate
+  a_k08k12k16_4ac: 1
+  a_k08k16_k05k08k16: estimate
+  a_k08k16_k08k12k16: 1
+  a_k12_k05k12: estimate
+  a_k12_k08k12: 1
+  a_k12_k12k16: estimate
+  a_k12k16_k05k12k16: 1
+  a_k12k16_k08k12k16: 1
+  a_k16_k05k16: 1
+  a_k16_k08k16: 1
+  a_k16_k12k16: 1
+petab_yaml: ../../example/optimal_problem/output/petab/petab_problem.yaml
+predecessor_model_hash: 8943e1bed49016e296baf7106f66b81e4e46b3b5b5a68947fae5721c6f11c4d99a26b63bc1fb86dd5c563009b14dcda84eaa072d25cd344297976ea01523c269

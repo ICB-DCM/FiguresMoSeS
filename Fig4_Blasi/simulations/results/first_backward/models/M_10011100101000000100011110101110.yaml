@@ -1,0 +1,93 @@
+criteria:
+  AIC: 64.99091123973213
+  AICc: 67.30580485675341
+  BIC: 121.4617766399149
+  NLLH: 16.495455619866064
+estimated_parameters:
+  a_0ac_k05: -0.0031830652187921703
+  a_0ac_k16: -0.2741929455971742
+  a_b: -1.150813068173064
+  a_k05_k05k08: -0.05452359893400203
+  a_k05_k05k12: 1.4472993140696888
+  a_k05k08_k05k08k16: -2.4633365824694593
+  a_k05k08k12_4ac: 1.422251898592642
+  a_k05k08k16_4ac: 0.8041061124310906
+  a_k05k12k16_4ac: -2.1168054790047575
+  a_k05k16_k05k12k16: 0.5548127904209298
+  a_k08_k08k12: 1.1251024803464427
+  a_k08k12_k05k08k12: 1.6460255927522778
+  a_k08k12_k08k12k16: 1.0933826778627935
+  a_k08k16_k05k08k16: 0.5014776617580574
+  a_k12_k05k12: 0.6302542084329062
+  a_k12k16_k05k12k16: -2.9999998876154517
+model_hash: c29f42383a96e591c81033f0c14a5bbfec587f22ae71aee0a4acfc5c70c70c9a6b0929ed709e18b6047de231c423f6e8f8994be11b7e4468c5813fce7bd907a1
+model_id: M_10011100101000000100011110101110
+model_subspace_id: M
+model_subspace_indices:
+- 1
+- 0
+- 0
+- 1
+- 1
+- 1
+- 0
+- 0
+- 1
+- 0
+- 1
+- 0
+- 0
+- 0
+- 0
+- 0
+- 0
+- 1
+- 0
+- 0
+- 0
+- 1
+- 1
+- 1
+- 1
+- 0
+- 1
+- 0
+- 1
+- 1
+- 1
+- 0
+parameters:
+  a_0ac_k05: estimate
+  a_0ac_k08: 1
+  a_0ac_k12: 1
+  a_0ac_k16: estimate
+  a_k05_k05k08: estimate
+  a_k05_k05k12: estimate
+  a_k05_k05k16: 1
+  a_k05k08_k05k08k12: 1
+  a_k05k08_k05k08k16: estimate
+  a_k05k08k12_4ac: estimate
+  a_k05k08k16_4ac: estimate
+  a_k05k12_k05k08k12: 1
+  a_k05k12_k05k12k16: 1
+  a_k05k12k16_4ac: estimate
+  a_k05k16_k05k08k16: 1
+  a_k05k16_k05k12k16: estimate
+  a_k08_k05k08: 1
+  a_k08_k08k12: estimate
+  a_k08_k08k16: 1
+  a_k08k12_k05k08k12: estimate
+  a_k08k12_k08k12k16: estimate
+  a_k08k12k16_4ac: 1
+  a_k08k16_k05k08k16: estimate
+  a_k08k16_k08k12k16: 1
+  a_k12_k05k12: estimate
+  a_k12_k08k12: 1
+  a_k12_k12k16: 1
+  a_k12k16_k05k12k16: estimate
+  a_k12k16_k08k12k16: 1
+  a_k16_k05k16: 1
+  a_k16_k08k16: 1
+  a_k16_k12k16: 1
+petab_yaml: ../../example/optimal_problem/output/petab/petab_problem.yaml
+predecessor_model_hash: 8943e1bed49016e296baf7106f66b81e4e46b3b5b5a68947fae5721c6f11c4d99a26b63bc1fb86dd5c563009b14dcda84eaa072d25cd344297976ea01523c269

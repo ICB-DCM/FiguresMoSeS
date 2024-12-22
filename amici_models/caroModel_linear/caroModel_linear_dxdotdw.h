@@ -1,5 +1,0 @@
-#define dxdot0_dflux_R1 dxdotdw[0]
-#define dxdot0_dflux_R2 dxdotdw[1]
-#define dxdot1_dflux_R2 dxdotdw[2]
-#define dxdot0_dflux_R3 dxdotdw[3]
-#define dxdot1_dflux_R3 dxdotdw[4]

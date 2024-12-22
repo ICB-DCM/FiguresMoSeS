@@ -1,0 +1,93 @@
+criteria:
+  AIC: 63.529039024797314
+  AICc: 65.84393264181858
+  BIC: 119.99990442498009
+  NLLH: 15.764519512398655
+estimated_parameters:
+  a_0ac_k05: -0.0013643010045689128
+  a_0ac_k16: -0.30265652612965716
+  a_b: -1.1706745570975068
+  a_k05_k05k08: 0.04826210890219676
+  a_k05_k05k12: 1.4569797843463388
+  a_k05k08_k05k08k16: -1.9343843103119278
+  a_k05k08k12_4ac: 1.4663236182582853
+  a_k05k12k16_4ac: -1.5039705118685947
+  a_k05k16_k05k12k16: 0.48703713803313337
+  a_k08_k08k12: 1.1730061538728536
+  a_k08k12_k05k08k12: 1.6782248262221335
+  a_k08k12_k08k12k16: 1.0849603459252701
+  a_k08k16_k05k08k16: 0.2189617049182248
+  a_k12_k05k12: 0.7104296811222355
+  a_k12_k12k16: 0.24090471059547486
+  a_k12k16_k05k12k16: -0.6094947000999673
+model_hash: 20dd91f96449df55f3104e4ea1acedbb07c13a435625b57cfd88a0925c001b25a5d6f52c733a455940a43612fca37f6b82d6e82e3d33443fd1d7233afce2e53f
+model_id: M_10011100101010000100011110101010
+model_subspace_id: M
+model_subspace_indices:
+- 1
+- 0
+- 0
+- 1
+- 1
+- 1
+- 0
+- 0
+- 1
+- 0
+- 1
+- 0
+- 1
+- 0
+- 0
+- 0
+- 0
+- 1
+- 0
+- 0
+- 0
+- 1
+- 1
+- 1
+- 1
+- 0
+- 1
+- 0
+- 1
+- 0
+- 1
+- 0
+parameters:
+  a_0ac_k05: estimate
+  a_0ac_k08: 1
+  a_0ac_k12: 1
+  a_0ac_k16: estimate
+  a_k05_k05k08: estimate
+  a_k05_k05k12: estimate
+  a_k05_k05k16: 1
+  a_k05k08_k05k08k12: 1
+  a_k05k08_k05k08k16: estimate
+  a_k05k08k12_4ac: estimate
+  a_k05k08k16_4ac: 1
+  a_k05k12_k05k08k12: 1
+  a_k05k12_k05k12k16: 1
+  a_k05k12k16_4ac: estimate
+  a_k05k16_k05k08k16: 1
+  a_k05k16_k05k12k16: estimate
+  a_k08_k05k08: 1
+  a_k08_k08k12: estimate
+  a_k08_k08k16: 1
+  a_k08k12_k05k08k12: estimate
+  a_k08k12_k08k12k16: estimate
+  a_k08k12k16_4ac: 1
+  a_k08k16_k05k08k16: estimate
+  a_k08k16_k08k12k16: 1
+  a_k12_k05k12: estimate
+  a_k12_k08k12: 1
+  a_k12_k12k16: estimate
+  a_k12k16_k05k12k16: estimate
+  a_k12k16_k08k12k16: 1
+  a_k16_k05k16: 1
+  a_k16_k08k16: 1
+  a_k16_k12k16: 1
+petab_yaml: ../../example/optimal_problem/output/petab/petab_problem.yaml
+predecessor_model_hash: 8943e1bed49016e296baf7106f66b81e4e46b3b5b5a68947fae5721c6f11c4d99a26b63bc1fb86dd5c563009b14dcda84eaa072d25cd344297976ea01523c269

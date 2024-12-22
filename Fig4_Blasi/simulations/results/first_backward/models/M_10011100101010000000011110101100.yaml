@@ -1,0 +1,92 @@
+criteria:
+  AIC: 61.58554637115971
+  AICc: 63.619444676244456
+  BIC: 114.52698268383106
+  NLLH: 15.792773185579854
+estimated_parameters:
+  a_0ac_k05: 0.004285013855834245
+  a_0ac_k16: -0.310769656171614
+  a_b: -1.1677423458551326
+  a_k05_k05k08: 0.08274062705087756
+  a_k05_k05k12: 1.460411453901131
+  a_k05k08k12_4ac: 1.4355150482071528
+  a_k05k08k16_4ac: 0.7774173292988615
+  a_k05k16_k05k12k16: -1.4336917743316095
+  a_k08_k08k12: 1.1554310965264751
+  a_k08k12_k05k08k12: 1.664466103356988
+  a_k08k12_k08k12k16: 1.0836480541087294
+  a_k08k16_k05k08k16: 0.2749271659410128
+  a_k12_k05k12: 0.7005753647130263
+  a_k12_k12k16: 0.2679218307481008
+  a_k12k16_k05k12k16: 0.1665370947583765
+model_hash: 112a39cf67dd8bfecdbda261e8915b596da3e60471d791f3079384c9de76bef091cf284ce55313f934bcc68482974cb338ee135d612cca8c825c1205397de28d
+model_id: M_10011100101010000000011110101100
+model_subspace_id: M
+model_subspace_indices:
+- 1
+- 0
+- 0
+- 1
+- 1
+- 1
+- 0
+- 0
+- 1
+- 0
+- 1
+- 0
+- 1
+- 0
+- 0
+- 0
+- 0
+- 0
+- 0
+- 0
+- 0
+- 1
+- 1
+- 1
+- 1
+- 0
+- 1
+- 0
+- 1
+- 1
+- 0
+- 0
+parameters:
+  a_0ac_k05: estimate
+  a_0ac_k08: 1
+  a_0ac_k12: 1
+  a_0ac_k16: estimate
+  a_k05_k05k08: estimate
+  a_k05_k05k12: estimate
+  a_k05_k05k16: 1
+  a_k05k08_k05k08k12: 1
+  a_k05k08_k05k08k16: 1
+  a_k05k08k12_4ac: estimate
+  a_k05k08k16_4ac: estimate
+  a_k05k12_k05k08k12: 1
+  a_k05k12_k05k12k16: 1
+  a_k05k12k16_4ac: 1
+  a_k05k16_k05k08k16: 1
+  a_k05k16_k05k12k16: estimate
+  a_k08_k05k08: 1
+  a_k08_k08k12: estimate
+  a_k08_k08k16: 1
+  a_k08k12_k05k08k12: estimate
+  a_k08k12_k08k12k16: estimate
+  a_k08k12k16_4ac: 1
+  a_k08k16_k05k08k16: estimate
+  a_k08k16_k08k12k16: 1
+  a_k12_k05k12: estimate
+  a_k12_k08k12: 1
+  a_k12_k12k16: estimate
+  a_k12k16_k05k12k16: estimate
+  a_k12k16_k08k12k16: 1
+  a_k16_k05k16: 1
+  a_k16_k08k16: 1
+  a_k16_k12k16: 1
+petab_yaml: ../../example/optimal_problem/output/petab/petab_problem.yaml
+predecessor_model_hash: 1c508f7ebcff1c87fe6ed6e2bd9db2586f56599db551d63dec7ed09e44f72898d2d6d2223e2dec7cd7bea548f121e5634c4158f448639721e6274d9a77b9381d

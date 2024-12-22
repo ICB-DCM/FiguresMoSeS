@@ -1,0 +1,90 @@
+criteria:
+  AIC: 57.54098646839614
+  AICc: 59.070398233102026
+  BIC: 103.42356460604465
+  NLLH: 15.770493234198073
+estimated_parameters:
+  a_0ac_k05: -0.001496029935319398
+  a_0ac_k16: -0.30868567190391183
+  a_b: -1.1689857667329142
+  a_k05_k05k12: 1.4569329421696922
+  a_k05k08_k05k08k16: -2.9999988531874444
+  a_k05k08k12_4ac: 1.4551241221631062
+  a_k08_k08k12: 1.1683165222800191
+  a_k08k12_k05k08k12: 1.6759574710793304
+  a_k08k12_k08k12k16: 1.0824301446232045
+  a_k08k16_k05k08k16: 0.21318162574451474
+  a_k12_k05k12: 0.700404285758214
+  a_k12_k12k16: 0.27013459448187455
+  a_k12k16_k05k12k16: 0.15380679906125272
+model_hash: 2c0d0ae899745c9d960b029540fc4f58fadf31058fac959536e4cac1f74c4c881de879f701b4da1dc538b95060c864ce048726fd8fbb1b6f5bfa0fe043b701ab
+model_id: M_10010100101010000100001110101000
+model_subspace_id: M
+model_subspace_indices:
+- 1
+- 0
+- 0
+- 1
+- 0
+- 1
+- 0
+- 0
+- 1
+- 0
+- 1
+- 0
+- 1
+- 0
+- 0
+- 0
+- 0
+- 1
+- 0
+- 0
+- 0
+- 0
+- 1
+- 1
+- 1
+- 0
+- 1
+- 0
+- 1
+- 0
+- 0
+- 0
+parameters:
+  a_0ac_k05: estimate
+  a_0ac_k08: 1
+  a_0ac_k12: 1
+  a_0ac_k16: estimate
+  a_k05_k05k08: 1
+  a_k05_k05k12: estimate
+  a_k05_k05k16: 1
+  a_k05k08_k05k08k12: 1
+  a_k05k08_k05k08k16: estimate
+  a_k05k08k12_4ac: estimate
+  a_k05k08k16_4ac: 1
+  a_k05k12_k05k08k12: 1
+  a_k05k12_k05k12k16: 1
+  a_k05k12k16_4ac: 1
+  a_k05k16_k05k08k16: 1
+  a_k05k16_k05k12k16: 1
+  a_k08_k05k08: 1
+  a_k08_k08k12: estimate
+  a_k08_k08k16: 1
+  a_k08k12_k05k08k12: estimate
+  a_k08k12_k08k12k16: estimate
+  a_k08k12k16_4ac: 1
+  a_k08k16_k05k08k16: estimate
+  a_k08k16_k08k12k16: 1
+  a_k12_k05k12: estimate
+  a_k12_k08k12: 1
+  a_k12_k12k16: estimate
+  a_k12k16_k05k12k16: estimate
+  a_k12k16_k08k12k16: 1
+  a_k16_k05k16: 1
+  a_k16_k08k16: 1
+  a_k16_k12k16: 1
+petab_yaml: ../../example/optimal_problem/output/petab/petab_problem.yaml
+predecessor_model_hash: ca7702e6340157dba3891a75557f0c1f8602c0ed49282ef5eacfa697e0d0586be1d94527915f9e9e15e1a92f8e36986eb8c704c252368156166af59fcc22244a

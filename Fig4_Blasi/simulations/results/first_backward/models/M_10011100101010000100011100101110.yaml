@@ -1,0 +1,93 @@
+criteria:
+  AIC: 63.529243897104124
+  AICc: 65.8441375141254
+  BIC: 120.0001092972869
+  NLLH: 15.76462194855206
+estimated_parameters:
+  a_0ac_k05: 0.05347232236379998
+  a_0ac_k16: -0.2898886802388776
+  a_b: -1.1889054151565428
+  a_k05_k05k08: 0.0983870922637968
+  a_k05_k05k12: 1.5020108189909038
+  a_k05k08_k05k08k16: -0.4753683287611797
+  a_k05k08k12_4ac: 1.4007331513271244
+  a_k05k08k16_4ac: -1.0692508508554892
+  a_k05k12k16_4ac: 1.163025932020922
+  a_k05k16_k05k12k16: 0.385517020417787
+  a_k08_k08k12: 1.1657185930479521
+  a_k08k12_k05k08k12: 1.6587449762812814
+  a_k08k12_k08k12k16: 1.1043878032935126
+  a_k12_k05k12: 0.644121750111236
+  a_k12_k12k16: 0.37597567424602407
+  a_k12k16_k05k12k16: 0.7207906342726208
+model_hash: 541c558226601ea7011a626fa76ce17713ddee87b3233a2835e8833780ef6f8e1ec43d98d4192a6364a0c623cf06b461d664116d8d491f4315234a0c5c15c713
+model_id: M_10011100101010000100011100101110
+model_subspace_id: M
+model_subspace_indices:
+- 1
+- 0
+- 0
+- 1
+- 1
+- 1
+- 0
+- 0
+- 1
+- 0
+- 1
+- 0
+- 1
+- 0
+- 0
+- 0
+- 0
+- 1
+- 0
+- 0
+- 0
+- 1
+- 1
+- 1
+- 0
+- 0
+- 1
+- 0
+- 1
+- 1
+- 1
+- 0
+parameters:
+  a_0ac_k05: estimate
+  a_0ac_k08: 1
+  a_0ac_k12: 1
+  a_0ac_k16: estimate
+  a_k05_k05k08: estimate
+  a_k05_k05k12: estimate
+  a_k05_k05k16: 1
+  a_k05k08_k05k08k12: 1
+  a_k05k08_k05k08k16: estimate
+  a_k05k08k12_4ac: estimate
+  a_k05k08k16_4ac: estimate
+  a_k05k12_k05k08k12: 1
+  a_k05k12_k05k12k16: 1
+  a_k05k12k16_4ac: estimate
+  a_k05k16_k05k08k16: 1
+  a_k05k16_k05k12k16: estimate
+  a_k08_k05k08: 1
+  a_k08_k08k12: estimate
+  a_k08_k08k16: 1
+  a_k08k12_k05k08k12: estimate
+  a_k08k12_k08k12k16: estimate
+  a_k08k12k16_4ac: 1
+  a_k08k16_k05k08k16: 1
+  a_k08k16_k08k12k16: 1
+  a_k12_k05k12: estimate
+  a_k12_k08k12: 1
+  a_k12_k12k16: estimate
+  a_k12k16_k05k12k16: estimate
+  a_k12k16_k08k12k16: 1
+  a_k16_k05k16: 1
+  a_k16_k08k16: 1
+  a_k16_k12k16: 1
+petab_yaml: ../../example/optimal_problem/output/petab/petab_problem.yaml
+predecessor_model_hash: 8943e1bed49016e296baf7106f66b81e4e46b3b5b5a68947fae5721c6f11c4d99a26b63bc1fb86dd5c563009b14dcda84eaa072d25cd344297976ea01523c269

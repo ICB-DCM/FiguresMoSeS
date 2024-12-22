@@ -1,5 +1,0 @@
-#define k1 p[0]
-#define k2 p[1]
-#define k3 p[2]
-#define sigma_x2 p[3]
-#define noiseParameter1_obs_x2 p[4]

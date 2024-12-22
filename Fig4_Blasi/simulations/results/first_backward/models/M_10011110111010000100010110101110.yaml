@@ -1,0 +1,95 @@
+criteria:
+  AIC: 96.14252346511748
+  AICc: 99.07814578271405
+  BIC: 159.6722470403231
+  NLLH: 30.071261732558735
+estimated_parameters:
+  a_0ac_k05: 0.17209176176576024
+  a_0ac_k16: -0.2232727031783394
+  a_b: -1.1722236806407569
+  a_k05_k05k08: 0.23732029206413155
+  a_k05_k05k12: 1.6571297729638474
+  a_k05_k05k16: 0.4968517304424288
+  a_k05k08_k05k08k16: -1.9718396721111333
+  a_k05k08k12_4ac: -2.6136189679062265
+  a_k05k08k16_4ac: -2.2056870379850984
+  a_k05k12k16_4ac: 1.9608700685057918
+  a_k05k16_k05k12k16: 2.960300288545362
+  a_k08_k08k12: 0.6097752240932938
+  a_k08_k08k16: -0.17408759358844306
+  a_k08k12_k08k12k16: 0.9906477939732768
+  a_k08k16_k05k08k16: -0.49412102429627874
+  a_k12_k05k12: 1.0611369173912693
+  a_k12_k12k16: 0.23493510823154493
+  a_k12k16_k05k12k16: -0.9290801752107102
+model_hash: c8cbbc01377bfe80abc46adfdb80eed5b60ec5475bc3e2c9cd5d8869200f31c0af8673a7141f6ae4569024341ab23a61538005aa349d0bf0ece5ed9849d45992
+model_id: M_10011110111010000100010110101110
+model_subspace_id: M
+model_subspace_indices:
+- 1
+- 0
+- 0
+- 1
+- 1
+- 1
+- 1
+- 0
+- 1
+- 1
+- 1
+- 0
+- 1
+- 0
+- 0
+- 0
+- 0
+- 1
+- 0
+- 0
+- 0
+- 1
+- 0
+- 1
+- 1
+- 0
+- 1
+- 0
+- 1
+- 1
+- 1
+- 0
+parameters:
+  a_0ac_k05: estimate
+  a_0ac_k08: 1
+  a_0ac_k12: 1
+  a_0ac_k16: estimate
+  a_k05_k05k08: estimate
+  a_k05_k05k12: estimate
+  a_k05_k05k16: estimate
+  a_k05k08_k05k08k12: 1
+  a_k05k08_k05k08k16: estimate
+  a_k05k08k12_4ac: estimate
+  a_k05k08k16_4ac: estimate
+  a_k05k12_k05k08k12: 1
+  a_k05k12_k05k12k16: 1
+  a_k05k12k16_4ac: estimate
+  a_k05k16_k05k08k16: 1
+  a_k05k16_k05k12k16: estimate
+  a_k08_k05k08: 1
+  a_k08_k08k12: estimate
+  a_k08_k08k16: estimate
+  a_k08k12_k05k08k12: 1
+  a_k08k12_k08k12k16: estimate
+  a_k08k12k16_4ac: 1
+  a_k08k16_k05k08k16: estimate
+  a_k08k16_k08k12k16: 1
+  a_k12_k05k12: estimate
+  a_k12_k08k12: 1
+  a_k12_k12k16: estimate
+  a_k12k16_k05k12k16: estimate
+  a_k12k16_k08k12k16: 1
+  a_k16_k05k16: 1
+  a_k16_k08k16: 1
+  a_k16_k12k16: 1
+petab_yaml: ../../example/optimal_problem/output/petab/petab_problem.yaml
+predecessor_model_hash: c8a0cdf81c0c833fb782b833aae190894008372d78d7d5adf7cf19fd25645264fa5281040e32c9e75b61f3d1f9fc17b8df13872ff7687331ab8d54b31c944fb3

@@ -1,0 +1,90 @@
+criteria:
+  AIC: 57.55679593654431
+  AICc: 59.086207701250196
+  BIC: 103.43937407419281
+  NLLH: 15.778397968272156
+estimated_parameters:
+  a_0ac_k05: 0.0011571685205970842
+  a_0ac_k16: -0.3079949467172881
+  a_b: -1.169652231712175
+  a_k05_k05k08: 0.039895612777417634
+  a_k05_k05k12: 1.4638076373021325
+  a_k05k08_k05k08k16: -1.7600416724781909
+  a_k05k08k12_4ac: 1.4628794924943238
+  a_k08_k08k12: 1.1681253426577143
+  a_k08k12_k05k08k12: 1.6748253091293772
+  a_k08k12_k08k12k16: 1.0801368693652071
+  a_k08k16_k05k08k16: 0.17619448138541322
+  a_k12_k05k12: 0.7141681868757931
+  a_k12_k12k16: 0.2639053559301863
+model_hash: 6227b317e42a32b505f0ecd7e775cea1a41820c8ec8bfde93ce79dd61ed31618cd902d4fba1f0c48a392e47f543fd56dc7383a376af6bc345b0896351fb1cf18
+model_id: M_10011100101010000100001110001000
+model_subspace_id: M
+model_subspace_indices:
+- 1
+- 0
+- 0
+- 1
+- 1
+- 1
+- 0
+- 0
+- 1
+- 0
+- 1
+- 0
+- 1
+- 0
+- 0
+- 0
+- 0
+- 1
+- 0
+- 0
+- 0
+- 0
+- 1
+- 1
+- 1
+- 0
+- 0
+- 0
+- 1
+- 0
+- 0
+- 0
+parameters:
+  a_0ac_k05: estimate
+  a_0ac_k08: 1
+  a_0ac_k12: 1
+  a_0ac_k16: estimate
+  a_k05_k05k08: estimate
+  a_k05_k05k12: estimate
+  a_k05_k05k16: 1
+  a_k05k08_k05k08k12: 1
+  a_k05k08_k05k08k16: estimate
+  a_k05k08k12_4ac: estimate
+  a_k05k08k16_4ac: 1
+  a_k05k12_k05k08k12: 1
+  a_k05k12_k05k12k16: 1
+  a_k05k12k16_4ac: 1
+  a_k05k16_k05k08k16: 1
+  a_k05k16_k05k12k16: 1
+  a_k08_k05k08: 1
+  a_k08_k08k12: estimate
+  a_k08_k08k16: 1
+  a_k08k12_k05k08k12: estimate
+  a_k08k12_k08k12k16: estimate
+  a_k08k12k16_4ac: 1
+  a_k08k16_k05k08k16: estimate
+  a_k08k16_k08k12k16: 1
+  a_k12_k05k12: estimate
+  a_k12_k08k12: 1
+  a_k12_k12k16: estimate
+  a_k12k16_k05k12k16: 1
+  a_k12k16_k08k12k16: 1
+  a_k16_k05k16: 1
+  a_k16_k08k16: 1
+  a_k16_k12k16: 1
+petab_yaml: ../../example/optimal_problem/output/petab/petab_problem.yaml
+predecessor_model_hash: ca7702e6340157dba3891a75557f0c1f8602c0ed49282ef5eacfa697e0d0586be1d94527915f9e9e15e1a92f8e36986eb8c704c252368156166af59fcc22244a

@@ -1,0 +1,93 @@
+criteria:
+  AIC: 63.52898332141572
+  AICc: 65.843876938437
+  BIC: 119.9998487215985
+  NLLH: 15.764491660707861
+estimated_parameters:
+  a_0ac_k05: 0.04081649375355858
+  a_0ac_k16: -0.298218082100824
+  a_b: -1.1835917712804387
+  a_k05_k05k08: 0.2716895817157239
+  a_k05_k05k12: 1.4836486504682975
+  a_k05k08_k05k08k16: 0.6072491233063004
+  a_k05k08k12_4ac: 1.419056360421772
+  a_k05k08k16_4ac: 1.2693955047410679
+  a_k05k16_k05k12k16: -0.853655774336699
+  a_k08_k08k12: 1.1669823364600593
+  a_k08k12_k05k08k12: 1.663666425195008
+  a_k08k12_k08k12k16: 1.0990627811645535
+  a_k08k16_k05k08k16: 0.10282292389327964
+  a_k12_k05k12: 0.6814363349864412
+  a_k12_k12k16: 0.3022399081044354
+  a_k12k16_k05k12k16: 0.32155089421576766
+model_hash: 1c508f7ebcff1c87fe6ed6e2bd9db2586f56599db551d63dec7ed09e44f72898d2d6d2223e2dec7cd7bea548f121e5634c4158f448639721e6274d9a77b9381d
+model_id: M_10011100101010000100011110101100
+model_subspace_id: M
+model_subspace_indices:
+- 1
+- 0
+- 0
+- 1
+- 1
+- 1
+- 0
+- 0
+- 1
+- 0
+- 1
+- 0
+- 1
+- 0
+- 0
+- 0
+- 0
+- 1
+- 0
+- 0
+- 0
+- 1
+- 1
+- 1
+- 1
+- 0
+- 1
+- 0
+- 1
+- 1
+- 0
+- 0
+parameters:
+  a_0ac_k05: estimate
+  a_0ac_k08: 1
+  a_0ac_k12: 1
+  a_0ac_k16: estimate
+  a_k05_k05k08: estimate
+  a_k05_k05k12: estimate
+  a_k05_k05k16: 1
+  a_k05k08_k05k08k12: 1
+  a_k05k08_k05k08k16: estimate
+  a_k05k08k12_4ac: estimate
+  a_k05k08k16_4ac: estimate
+  a_k05k12_k05k08k12: 1
+  a_k05k12_k05k12k16: 1
+  a_k05k12k16_4ac: 1
+  a_k05k16_k05k08k16: 1
+  a_k05k16_k05k12k16: estimate
+  a_k08_k05k08: 1
+  a_k08_k08k12: estimate
+  a_k08_k08k16: 1
+  a_k08k12_k05k08k12: estimate
+  a_k08k12_k08k12k16: estimate
+  a_k08k12k16_4ac: 1
+  a_k08k16_k05k08k16: estimate
+  a_k08k16_k08k12k16: 1
+  a_k12_k05k12: estimate
+  a_k12_k08k12: 1
+  a_k12_k12k16: estimate
+  a_k12k16_k05k12k16: estimate
+  a_k12k16_k08k12k16: 1
+  a_k16_k05k16: 1
+  a_k16_k08k16: 1
+  a_k16_k12k16: 1
+petab_yaml: ../../example/optimal_problem/output/petab/petab_problem.yaml
+predecessor_model_hash: 8943e1bed49016e296baf7106f66b81e4e46b3b5b5a68947fae5721c6f11c4d99a26b63bc1fb86dd5c563009b14dcda84eaa072d25cd344297976ea01523c269

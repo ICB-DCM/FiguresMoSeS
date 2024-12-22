@@ -1,0 +1,93 @@
+criteria:
+  AIC: 86.44432272989069
+  AICc: 88.75921634691196
+  BIC: 142.91518813007346
+  NLLH: 27.222161364945343
+estimated_parameters:
+  a_0ac_k05: -0.003488687203559567
+  a_0ac_k16: -0.37672519337477256
+  a_b: -1.0248373626581726
+  a_k05_k05k08: -1.8272784635641617
+  a_k05_k05k12: 1.4406825552437117
+  a_k05k08_k05k08k16: -0.10461023063910656
+  a_k05k08k12_4ac: -2.9999999981570635
+  a_k05k08k16_4ac: 1.6709286317437113
+  a_k05k12k16_4ac: 1.5630447093236215
+  a_k05k16_k05k12k16: -1.192572542822097
+  a_k08k12_k05k08k12: 1.1014706134596015
+  a_k08k12_k08k12k16: 0.9493064344501974
+  a_k08k16_k05k08k16: 1.1203792827078423
+  a_k12_k05k12: 0.44398556167216724
+  a_k12_k12k16: 0.26138529872145394
+  a_k12k16_k05k12k16: 0.9452856222616276
+model_hash: 41adefc0df4af0aaa22b47c074cee5201b239ad807942fd984edb8dace7a9ddaedd9fe865193687ec77d4f026b67f604330c061b9a53b98110219dd04b5a88db
+model_id: M_10011100001010000100011110101110
+model_subspace_id: M
+model_subspace_indices:
+- 1
+- 0
+- 0
+- 1
+- 1
+- 1
+- 0
+- 0
+- 0
+- 0
+- 1
+- 0
+- 1
+- 0
+- 0
+- 0
+- 0
+- 1
+- 0
+- 0
+- 0
+- 1
+- 1
+- 1
+- 1
+- 0
+- 1
+- 0
+- 1
+- 1
+- 1
+- 0
+parameters:
+  a_0ac_k05: estimate
+  a_0ac_k08: 1
+  a_0ac_k12: 1
+  a_0ac_k16: estimate
+  a_k05_k05k08: estimate
+  a_k05_k05k12: estimate
+  a_k05_k05k16: 1
+  a_k05k08_k05k08k12: 1
+  a_k05k08_k05k08k16: estimate
+  a_k05k08k12_4ac: estimate
+  a_k05k08k16_4ac: estimate
+  a_k05k12_k05k08k12: 1
+  a_k05k12_k05k12k16: 1
+  a_k05k12k16_4ac: estimate
+  a_k05k16_k05k08k16: 1
+  a_k05k16_k05k12k16: estimate
+  a_k08_k05k08: 1
+  a_k08_k08k12: 1
+  a_k08_k08k16: 1
+  a_k08k12_k05k08k12: estimate
+  a_k08k12_k08k12k16: estimate
+  a_k08k12k16_4ac: 1
+  a_k08k16_k05k08k16: estimate
+  a_k08k16_k08k12k16: 1
+  a_k12_k05k12: estimate
+  a_k12_k08k12: 1
+  a_k12_k12k16: estimate
+  a_k12k16_k05k12k16: estimate
+  a_k12k16_k08k12k16: 1
+  a_k16_k05k16: 1
+  a_k16_k08k16: 1
+  a_k16_k12k16: 1
+petab_yaml: ../../example/optimal_problem/output/petab/petab_problem.yaml
+predecessor_model_hash: 8943e1bed49016e296baf7106f66b81e4e46b3b5b5a68947fae5721c6f11c4d99a26b63bc1fb86dd5c563009b14dcda84eaa072d25cd344297976ea01523c269

@@ -1,0 +1,13 @@
+observableId	simulationConditionId	measurement	time	noiseParameters
+obs_x1	model1_data1	0.10963660402216949	0	sigma_x1
+obs_x1	model1_data1	0.246687164925633	1	sigma_x1
+obs_x1	model1_data1	0.670630405682433	5	sigma_x1
+obs_x1	model1_data1	1.2078354754896417	10	sigma_x1
+obs_x1	model1_data1	1.762323952950542	30	sigma_x1
+obs_x1	model1_data1	1.9138889408679454	60	sigma_x1
+obs_x2	model1_data1	0.13189471030167926	0	sigma_x2
+obs_x2	model1_data1	0.0768333919160945	1	sigma_x2
+obs_x2	model1_data1	0.3408937016795439	5	sigma_x2
+obs_x2	model1_data1	0.7417539388954201	10	sigma_x2
+obs_x2	model1_data1	4.258662319033349	30	sigma_x2
+obs_x2	model1_data1	9.839467064637164	60	sigma_x2

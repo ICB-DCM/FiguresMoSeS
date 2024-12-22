@@ -1,0 +1,93 @@
+criteria:
+  AIC: 63.539762644846654
+  AICc: 65.85465626186793
+  BIC: 120.01062804502942
+  NLLH: 15.769881322423327
+estimated_parameters:
+  a_0ac_k05: -0.006626425421889971
+  a_0ac_k16: -0.3069840591045771
+  a_b: -1.1677089033935266
+  a_k05_k05k12: 1.4521315124986096
+  a_k05k08_k05k08k16: -2.999983715379788
+  a_k05k08k12_4ac: 1.458608581361312
+  a_k05k08k16_4ac: 0.1662938065495246
+  a_k05k12k16_4ac: -2.01860007087149
+  a_k05k16_k05k12k16: 0.30243729089795035
+  a_k08_k08k12: 1.1681170140514856
+  a_k08k12_k05k08k12: 1.676579977233803
+  a_k08k12_k08k12k16: 1.0814530295594218
+  a_k08k16_k05k08k16: 0.2516176974604999
+  a_k12_k05k12: 0.7089999680816583
+  a_k12_k12k16: 0.24795327495269576
+  a_k12k16_k05k12k16: -0.19568565581913566
+model_hash: 862635fe76b6d2151b9dc80e3aa93b469afd9eb10dd2c9542fced42810becaa13087aba70d614d592def575498849ef88dffeb7e270a493c58097bab105a5f73
+model_id: M_10010100101010000100011110101110
+model_subspace_id: M
+model_subspace_indices:
+- 1
+- 0
+- 0
+- 1
+- 0
+- 1
+- 0
+- 0
+- 1
+- 0
+- 1
+- 0
+- 1
+- 0
+- 0
+- 0
+- 0
+- 1
+- 0
+- 0
+- 0
+- 1
+- 1
+- 1
+- 1
+- 0
+- 1
+- 0
+- 1
+- 1
+- 1
+- 0
+parameters:
+  a_0ac_k05: estimate
+  a_0ac_k08: 1
+  a_0ac_k12: 1
+  a_0ac_k16: estimate
+  a_k05_k05k08: 1
+  a_k05_k05k12: estimate
+  a_k05_k05k16: 1
+  a_k05k08_k05k08k12: 1
+  a_k05k08_k05k08k16: estimate
+  a_k05k08k12_4ac: estimate
+  a_k05k08k16_4ac: estimate
+  a_k05k12_k05k08k12: 1
+  a_k05k12_k05k12k16: 1
+  a_k05k12k16_4ac: estimate
+  a_k05k16_k05k08k16: 1
+  a_k05k16_k05k12k16: estimate
+  a_k08_k05k08: 1
+  a_k08_k08k12: estimate
+  a_k08_k08k16: 1
+  a_k08k12_k05k08k12: estimate
+  a_k08k12_k08k12k16: estimate
+  a_k08k12k16_4ac: 1
+  a_k08k16_k05k08k16: estimate
+  a_k08k16_k08k12k16: 1
+  a_k12_k05k12: estimate
+  a_k12_k08k12: 1
+  a_k12_k12k16: estimate
+  a_k12k16_k05k12k16: estimate
+  a_k12k16_k08k12k16: 1
+  a_k16_k05k16: 1
+  a_k16_k08k16: 1
+  a_k16_k12k16: 1
+petab_yaml: ../../example/optimal_problem/output/petab/petab_problem.yaml
+predecessor_model_hash: 8943e1bed49016e296baf7106f66b81e4e46b3b5b5a68947fae5721c6f11c4d99a26b63bc1fb86dd5c563009b14dcda84eaa072d25cd344297976ea01523c269

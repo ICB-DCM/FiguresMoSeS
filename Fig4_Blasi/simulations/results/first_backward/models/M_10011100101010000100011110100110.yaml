@@ -1,0 +1,93 @@
+criteria:
+  AIC: 63.577086141927154
+  AICc: 65.89197975894842
+  BIC: 120.04795154210993
+  NLLH: 15.788543070963579
+estimated_parameters:
+  a_0ac_k05: 0.2598926650466563
+  a_0ac_k16: -0.21284634970525035
+  a_b: -1.2721506025754772
+  a_k05_k05k08: 0.6459344978683804
+  a_k05_k05k12: 1.6538804125112008
+  a_k05k08_k05k08k16: 1.220069412928707
+  a_k05k08k16_4ac: 1.8464409445072965
+  a_k05k12k16_4ac: 1.7597319527240052
+  a_k05k16_k05k12k16: 0.5745595532283809
+  a_k08_k08k12: 1.1021951634627705
+  a_k08k12_k05k08k12: 1.5109814998515942
+  a_k08k12_k08k12k16: 1.2026243501842862
+  a_k08k16_k05k08k16: -2.999999999999977
+  a_k12_k05k12: 0.2892058169024202
+  a_k12_k12k16: 0.6409291475226498
+  a_k12k16_k05k12k16: 1.2907481350239827
+model_hash: 71d95c14df985d7f006d2090aacd5a28d3fc4f4f25bf40139836050d7e68febbf496c6b2fb9fefd89d64679935aa65ca0e1d3e6168cca5f788224d94f143e8d7
+model_id: M_10011100101010000100011110100110
+model_subspace_id: M
+model_subspace_indices:
+- 1
+- 0
+- 0
+- 1
+- 1
+- 1
+- 0
+- 0
+- 1
+- 0
+- 1
+- 0
+- 1
+- 0
+- 0
+- 0
+- 0
+- 1
+- 0
+- 0
+- 0
+- 1
+- 1
+- 1
+- 1
+- 0
+- 1
+- 0
+- 0
+- 1
+- 1
+- 0
+parameters:
+  a_0ac_k05: estimate
+  a_0ac_k08: 1
+  a_0ac_k12: 1
+  a_0ac_k16: estimate
+  a_k05_k05k08: estimate
+  a_k05_k05k12: estimate
+  a_k05_k05k16: 1
+  a_k05k08_k05k08k12: 1
+  a_k05k08_k05k08k16: estimate
+  a_k05k08k12_4ac: 1
+  a_k05k08k16_4ac: estimate
+  a_k05k12_k05k08k12: 1
+  a_k05k12_k05k12k16: 1
+  a_k05k12k16_4ac: estimate
+  a_k05k16_k05k08k16: 1
+  a_k05k16_k05k12k16: estimate
+  a_k08_k05k08: 1
+  a_k08_k08k12: estimate
+  a_k08_k08k16: 1
+  a_k08k12_k05k08k12: estimate
+  a_k08k12_k08k12k16: estimate
+  a_k08k12k16_4ac: 1
+  a_k08k16_k05k08k16: estimate
+  a_k08k16_k08k12k16: 1
+  a_k12_k05k12: estimate
+  a_k12_k08k12: 1
+  a_k12_k12k16: estimate
+  a_k12k16_k05k12k16: estimate
+  a_k12k16_k08k12k16: 1
+  a_k16_k05k16: 1
+  a_k16_k08k16: 1
+  a_k16_k12k16: 1
+petab_yaml: ../../example/optimal_problem/output/petab/petab_problem.yaml
+predecessor_model_hash: 8943e1bed49016e296baf7106f66b81e4e46b3b5b5a68947fae5721c6f11c4d99a26b63bc1fb86dd5c563009b14dcda84eaa072d25cd344297976ea01523c269

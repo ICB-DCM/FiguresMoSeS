@@ -1,0 +1,106 @@
+criteria:
+  AIC: 89.52887309532109
+  AICc: 97.36671093315893
+  BIC: 191.88231663315236
+  NLLH: 15.764436547660544
+estimated_parameters:
+  a_0ac_k05: -1.982575413423282
+  a_0ac_k08: 1.0955325374862406
+  a_0ac_k12: 1.4682253061826191
+  a_0ac_k16: 1.0739512476979365
+  a_b: -2.35649398185719
+  a_k05_k05k08: 1.4417348360947841
+  a_k05_k05k12: 2.114308737373933
+  a_k05_k05k16: -1.3219376462529628
+  a_k05k08_k05k08k12: -0.15877049683165892
+  a_k05k08_k05k08k16: -1.040155116841735
+  a_k05k08k12_4ac: -0.45380525339248146
+  a_k05k08k16_4ac: 2.6795107302992167
+  a_k05k12_k05k12k16: -1.1769767326492657
+  a_k05k12k16_4ac: 2.9755720339038048
+  a_k05k16_k05k08k16: 2.155961203835695
+  a_k05k16_k05k12k16: -0.6005198891436452
+  a_k08_k08k12: 2.178198176847169
+  a_k08_k08k16: 1.5976518972922658
+  a_k08k12_k05k08k12: 2.66378919908503
+  a_k08k12_k08k12k16: -2.9615822649194494
+  a_k08k16_k05k08k16: -2.3153602854935253
+  a_k08k16_k08k12k16: 2.034986977999623
+  a_k12_k05k12: 2.312015227988072
+  a_k12_k08k12: 0.000553739983498233
+  a_k12_k12k16: 1.7363419643378735
+  a_k12k16_k05k12k16: 2.603610696842464
+  a_k12k16_k08k12k16: 2.1447504999463183
+  a_k16_k05k16: 1.834204832833422
+  a_k16_k12k16: 1.897198694686045
+model_hash: a8295e7eb8d81426f178e4a9025b1b460a01515d22bae981b8447927b561e1722d857c2f791aabff584c990b4282a778d0515d43b5df0f53cc36c84a790701f6
+model_id: M_11111110111111011101111111111110
+model_subspace_id: M
+model_subspace_indices:
+- 1
+- 1
+- 1
+- 1
+- 1
+- 1
+- 1
+- 0
+- 1
+- 1
+- 1
+- 1
+- 1
+- 1
+- 0
+- 1
+- 1
+- 1
+- 0
+- 1
+- 1
+- 1
+- 1
+- 1
+- 1
+- 1
+- 1
+- 1
+- 1
+- 1
+- 1
+- 0
+parameters:
+  a_0ac_k05: estimate
+  a_0ac_k08: estimate
+  a_0ac_k12: estimate
+  a_0ac_k16: estimate
+  a_k05_k05k08: estimate
+  a_k05_k05k12: estimate
+  a_k05_k05k16: estimate
+  a_k05k08_k05k08k12: estimate
+  a_k05k08_k05k08k16: estimate
+  a_k05k08k12_4ac: estimate
+  a_k05k08k16_4ac: estimate
+  a_k05k12_k05k08k12: 1
+  a_k05k12_k05k12k16: estimate
+  a_k05k12k16_4ac: estimate
+  a_k05k16_k05k08k16: estimate
+  a_k05k16_k05k12k16: estimate
+  a_k08_k05k08: 1
+  a_k08_k08k12: estimate
+  a_k08_k08k16: estimate
+  a_k08k12_k05k08k12: estimate
+  a_k08k12_k08k12k16: estimate
+  a_k08k12k16_4ac: 1
+  a_k08k16_k05k08k16: estimate
+  a_k08k16_k08k12k16: estimate
+  a_k12_k05k12: estimate
+  a_k12_k08k12: estimate
+  a_k12_k12k16: estimate
+  a_k12k16_k05k12k16: estimate
+  a_k12k16_k08k12k16: estimate
+  a_k16_k05k16: estimate
+  a_k16_k08k16: 1
+  a_k16_k12k16: estimate
+petab_yaml: ../../example/optimal_problem/output/petab/petab_problem.yaml
+predecessor_model_hash: a65ea50bb25862d642498999d0a4284c1014cdc0c3fd41bcf70c53e038c680600a2dd29cc79055677c8b8e8cf353478b3a8c0e887a6e8ae96644eef595742c78

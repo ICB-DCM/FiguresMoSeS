@@ -1,0 +1,14 @@
+selection_arguments = {'local_method': Method.FORWARD,
+                       'criterion': Criterion.BIC,
+                       'nr_data_points': 251,
+                       'minimize_options': {"n_starts": 10,
+                                            "optimizer": pypesto.optimize.FidesOptimizer(hessian_update=fides.BFGS(),
+                                                                                         verbose=logging.ERROR),
+                                            "engine": pypesto.engine.SingleCoreEngine(),
+                                            "filename": None,  # 'Result_local',
+                                            },
+                       'paths': None
+                       }
+
+M_00000000000000000000000000000000 2022-08-07 13:11:47.714157
+M_01000100001000100010000011000100 2022-08-07 13:24:55.332166
